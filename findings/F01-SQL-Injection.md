@@ -101,13 +101,13 @@ The difference between the baseline `401 Unauthorized` response and the SQL inje
 
 The baseline login request returned `401 Unauthorized` with an `Invalid email or password` response.
 
-**File:** ![[login_baseline.png]]
+**File:** ![](evidence/F01/login_baseline.png)
 
 ###  SQL Injection Authentication Bypass
 
 The modified login request containing the SQL injection payload returned `200 OK` and authenticated as `admin@juice-sh.op`.
 
-**File:** ![[sqli_authentication_bypass.png]]
+**File:** ![](evidence/F01/sqli_authentication_bypass.png)
 
 Authentication tokens and other token-like values are redacted from public evidence.
 
