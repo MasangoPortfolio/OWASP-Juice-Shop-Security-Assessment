@@ -14,7 +14,7 @@ The assessment covers three vulnerabilities:
 
 | Finding                               | Severity    | Status    |
 | ------------------------------------- | ----------- | --------- |
-| SQL Injection - Authentication Bypass | Unknown    | Not Confirmed |
+| SQL Injection - Authentication Bypass | Critical    | Confirmed |
 | Broken Access Control / IDOR          | Unknown        | Not Confirmed |
 | Cross-Site Scripting (XSS)            | Unknown | Not Confirmed |
 
