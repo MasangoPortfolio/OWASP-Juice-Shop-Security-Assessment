@@ -69,7 +69,7 @@ The Windows x64 packaged release was downloaded and extracted locally.
 
 ### Evidence 01  Juice Shop Running
 
-**Screenshot:** ![[juice_shop_running.png]]
+**Screenshot:** ![[evidence/env/juice_shop_running.png]]
 
 Shows OWASP Juice Shop running locally and accessible through the browser at `127.0.0.1:3000`.
 
