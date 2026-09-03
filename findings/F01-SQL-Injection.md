@@ -2,7 +2,7 @@
 
 **Severity:** Critical
 
-**OWASP Category:** A03 — Injection
+**OWASP Category:** A03 - Injection
 
 **Status:** Confirmed
 
